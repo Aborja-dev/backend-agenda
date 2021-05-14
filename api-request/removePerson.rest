@@ -1,0 +1,1 @@
+DELETE http://localhost:3001/persons/6081c336a402962a563c7347
